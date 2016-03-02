@@ -1,6 +1,6 @@
 # pmx-cores
 
-Report maschine cpu and core usage to keymetrics via pmx.
+Report system cpu and core usage to keymetrics via pmx.
 
 example
 -------
