@@ -1,0 +1,22 @@
+{
+  "name": "pmx-cores",
+  "version": "1.0.0",
+  "private": true,
+  "description": "report all system cores to pmx keymetrics",
+  "keywords": [],
+  "author": "Richard Kuhnt <r15ch13+git@gmail.com>",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "tap": "^5.7.0"
+  },
+  "scripts": {
+    "test": "tap test/*.js --cov --coverage-report=lcov"
+  },
+  "dependencies": {
+    "pmx": "^0.6.1"
+  }
+}
