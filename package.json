@@ -2,7 +2,7 @@
   "name": "pmx-cores",
   "version": "1.0.0",
   "description": "report all system cores to pmx keymetrics",
-  "keywords": ["pmx", "cpu", "cores", "cpu usage", "core usage"],
+  "keywords": ["pmx", "pm2", "cpu", "cores", "cpu usage", "core usage"],
   "author": "Richard Kuhnt <r15ch13+git@gmail.com>",
   "main": "index.js",
   "directories": {
