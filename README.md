@@ -20,6 +20,5 @@ pmxcores.usage(function(cpu) {
 });
 ```
 
-
 # License
 [The MIT License (MIT)](http://r15ch13.mit-license.org/)
